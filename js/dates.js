@@ -18,5 +18,12 @@
 
 //console.log(`The date ${date.toDateString()} is ${isWeekend ? '' : 'not '}a weekend.`)
 //STEP 4
- 
+//let weekDays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
+
+//let today = new Date
+
+//let yesterday = new Date(today.getDate() -1)
+
+//console.log (`Yesterday was ${weekDays[yesterday.getDay()]}`)
 //STEP 5
+//console.log ('SMTWTFS'.charAt(new Date().getDay()))
