@@ -30,8 +30,6 @@
 
 //console.log(`The smallet number is ${lowwestNum} and the largest number is ${highestNum}`)
 
-
-
 //STEP 5
 
 //let userNum = prompt('Enter any number below.')
